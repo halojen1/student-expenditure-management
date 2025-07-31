@@ -59,7 +59,7 @@ public class LoginActivity extends AppCompatActivity {
                 startActivity(intent);
                 finish();
             } else {
-                Toast.makeText(LoginActivity.this, "Sai tên đăng nhaahập hoặc mật khẩu", Toast.LENGTH_SHORT).show();
+                Toast.makeText(LoginActivity.this, "Sai tên đăng nhhập hoặc mật khẩu", Toast.LENGTH_SHORT).show();
             }
         });
 
